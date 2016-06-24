@@ -35,6 +35,7 @@ class ViewController: UIViewController, UIPopoverPresentationControllerDelegate 
         
         let popOverPresentationContr = presentedVCObj.popoverPresentationController
         if(UI_USER_INTERFACE_IDIOM() == .Phone) {
+            presentedVCObj.transitioningDelegate = demoTransitioningDelegate
             
             // animation direction
             (presentedVCObj.transitioningDelegate! as! KSTransitioningDelegate).animationType = AnimationType.rightCenterRightAnimation.rawValue
