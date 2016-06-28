@@ -9,6 +9,6 @@ The presentation can happen from multiple directions i.e, from bottom/right.
 This can be a replacement for the default presentation which in normal scenario covers full screen.
 
 <a href="https://gfycat.com/ifr/ImmediateBleakHusky">
-(https://gfycat.com/ifr/ImmediateBleakHusky)
+![2014-10-22 11_35_09](https://gfycat.com/ifr/ImmediateBleakHusky)
 </a>
 
